@@ -1,4 +1,4 @@
-# Awesome resources for Data Science in the healthcare sector, with special emphasis on public sector (single-payer healthcare systems)
+# Awesome resources for Data Science in the healthcare sector, with emphasis on single-payer healthcare systems
 A repository for awesome resources for data science teams and individual data scientists working on implementing data science in a healthcare context. 
 
 # Ethical AI
