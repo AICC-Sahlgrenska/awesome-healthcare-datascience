@@ -24,3 +24,7 @@ A repository for awesome resources for data science teams and individual data sc
 - [NHS R community](https://github.com/nhs-r-community)
 - [NHS Python community](https://github.com/nhs-pycom)
 - [NHSX](https://github.com/nhsx)
+- [Clinical Scientific Computing at Guy's and St Thomas' NHS Foundation Trust](https://github.com/GSTT-CSC)
+
+# More resources
+- Lots of resources and links over at [Clinical Scientific Computing at Guy's and St Thomas' NHS Foundation Trust](https://gstt-csc.github.io/)
