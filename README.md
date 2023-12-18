@@ -17,6 +17,9 @@ A repository for awesome resources for data science teams and individual data sc
 # Videos
 - [Posit hangouts](https://posit.co/past-hangouts/) sometimes feature fantastic Life Science guests, e.g. [this one with guests from Unity Health](https://posit.co/data-science-hangout/57-derek-beaton/)
 - [Videos from NHS R & Python communities' conferences and workshops](https://www.youtube.com/channel/UCMwM-3tg_-Pbx8hKO78q5EA)
+- [AI och maskininlärning för kliniker](https://play.lnu.se/media/t/0_9gldbzgn) (in Swedish!)
+- [Artificiell intelligens inom vård och omsorg](https://play.lnu.se/media/t/0_mzti4jou) (in Swedish!)
+- [AI och bröstcancer](https://play.lnu.se/media/t/0_wteryemf) (in Swedish!)
 
 # Podcasts
 - [Vanishing Gradients](https://vanishinggradients.fireside.fm/)
