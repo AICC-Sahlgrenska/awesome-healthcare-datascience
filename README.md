@@ -39,6 +39,7 @@ A repository for awesome resources for data science teams and individual data sc
 - Many lists of healthcare datasets floating around the internet, search e.g. "awesome healthcare dataset"
 
 # More resources
+- [Blog by Data Science and Advanced Analytics group at Unity Health Toronto](https://lks-chart.github.io/blog/)
 - Lots of resources and links over at [Clinical Scientific Computing at Guy's and St Thomas' NHS Foundation Trust](https://gstt-csc.github.io/)
 - [DevOps for Data Science book](https://do4ds.com/)
 - Many resources over at [Vector Institute](https://vectorinstitute.ai/research/health-research/), e.g. [Health AI Implementation Toolkit](https://vectorinstitute.ai/health-ai-implementation-toolkit/)
