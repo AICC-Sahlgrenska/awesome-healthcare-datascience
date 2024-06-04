@@ -13,6 +13,7 @@ A repository for awesome resources for data science teams and individual data sc
 - [Nordic Research Software Engineers](https://nordic-rse.org/)
 - [Locally Optimistic Slack](https://locallyoptimistic.com/community/)
 - [AI Nordics Discord Server](https://my.ai.se/resources/1014)
+- [Network for data scientists working in the Swedish public healthcare sector](https://aicc-sahlgrenska.github.io/data_scientist_network/)
 
 # Videos
 - [Posit hangouts](https://posit.co/past-hangouts/) sometimes feature fantastic Life Science guests, e.g. [this one with guests from Unity Health](https://posit.co/data-science-hangout/57-derek-beaton/)
