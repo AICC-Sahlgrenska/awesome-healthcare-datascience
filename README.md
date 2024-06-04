@@ -43,3 +43,4 @@ A repository for awesome resources for data science teams and individual data sc
 - Lots of resources and links over at [Clinical Scientific Computing at Guy's and St Thomas' NHS Foundation Trust](https://gstt-csc.github.io/)
 - [DevOps for Data Science book](https://do4ds.com/)
 - Many resources over at [Vector Institute](https://vectorinstitute.ai/research/health-research/), e.g. [Health AI Implementation Toolkit](https://vectorinstitute.ai/health-ai-implementation-toolkit/)
+- Blog about Data Science tools and technologies with daily articles https://blog.dailydoseofds.com/
