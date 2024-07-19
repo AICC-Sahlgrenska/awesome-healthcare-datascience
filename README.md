@@ -13,10 +13,11 @@ Have a good resource that is not here? Make a pull request!
 - [Network for data scientists working in the Swedish public healthcare sector](https://aicc-sahlgrenska.github.io/data_scientist_network/)
 
 # Videos
-- [Posit hangouts](https://posit.co/past-hangouts/) sometimes feature fantastic Life Science guests, e.g. [this one with guests from Unity Health](https://posit.co/data-science-hangout/57-derek-beaton/)
+- [Applied AI sessions with Unity Health](https://youtube.com/playlist?list=PL13Svr4qEzK7L5mgD0aLfdLN162cjuhSk&si=XhcPZuFSN33SrmMp), organised by AI Sweden
 - [Videos from NHS R & Python communities' conferences and workshops](https://www.youtube.com/channel/UCMwM-3tg_-Pbx8hKO78q5EA)
 - [Videos from old Health and Care Analytics conferences](https://www.youtube.com/@HACA_Conference)
 - [Videos from R/Medicine conferences](https://www.youtube.com/@RConsortium) (look for playlists with R Medicine or R/Medicine in the name)
+- [Posit hangouts](https://posit.co/past-hangouts/) sometimes feature fantastic Life Science guests, e.g. [this one with guests from Unity Health](https://posit.co/data-science-hangout/57-derek-beaton/)
 
 # Podcasts
 - [Vanishing Gradients](https://vanishinggradients.fireside.fm/)
