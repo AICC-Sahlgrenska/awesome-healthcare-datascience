@@ -1,10 +1,7 @@
 # Awesome resources for Data Science in the healthcare sector, with emphasis on single-payer healthcare systems
-A repository for awesome resources for data science teams and individual data scientists working on implementing data science in a healthcare context. 
+A repository for awesome resources for data science teams and individual data scientists working on implementing data science in a healthcare context. Some of the content is specifically for Nordic context, but a great deal is generally applicable. 
 
-# Ethical AI
-
-- [Guidelines for ethical AI in public sector](https://www.suomi.fi/guides/responsible-ai)
-- [Yle's (Finnish public broadcasting company) principles for responsible AI](https://yle.fi/aihe/s/10005660)
+Have a good resource that is not here? Make a pull request!
 
 # Organisations, networks and communities
 
@@ -18,12 +15,12 @@ A repository for awesome resources for data science teams and individual data sc
 # Videos
 - [Posit hangouts](https://posit.co/past-hangouts/) sometimes feature fantastic Life Science guests, e.g. [this one with guests from Unity Health](https://posit.co/data-science-hangout/57-derek-beaton/)
 - [Videos from NHS R & Python communities' conferences and workshops](https://www.youtube.com/channel/UCMwM-3tg_-Pbx8hKO78q5EA)
-- [AI och maskininlärning för kliniker](https://play.lnu.se/media/t/0_9gldbzgn) (in Swedish!)
-- [Artificiell intelligens inom vård och omsorg](https://play.lnu.se/media/t/0_mzti4jou) (in Swedish!)
-- [AI och bröstcancer](https://play.lnu.se/media/t/0_wteryemf) (in Swedish!)
+- [Videos from old Health and Care Analytics conferences](https://www.youtube.com/@HACA_Conference)
+- [Videos from R/Medicine conferences](https://www.youtube.com/@RConsortium) (look for playlists with R Medicine or R/Medicine in the name)
 
 # Podcasts
 - [Vanishing Gradients](https://vanishinggradients.fireside.fm/)
+- [An episode of the AI Sweden podcast on productionizing AI in healthcare with guests from Unity Health](https://open.spotify.com/episode/00UdMfRTBzYFufQIhY2RiY?si=d8a1087f5b60485f)
 
 # Repositories
 - [Monai](https://github.com/Project-MONAI) is a toolkit for medical image analysis developed by NVIDIA and King’s College London
@@ -39,9 +36,23 @@ A repository for awesome resources for data science teams and individual data sc
 - Many [Kaggle](https://www.kaggle.com/) competitions have health-related datasets
 - Many lists of healthcare datasets floating around the internet, search e.g. "awesome healthcare dataset"
 
+# Ethical AI
+
+- [Guidelines for ethical AI in public sector](https://www.suomi.fi/guides/responsible-ai)
+- [Yle's (Finnish public broadcasting company) principles for responsible AI](https://yle.fi/aihe/s/10005660)
+- [Deon](https://deon.drivendata.org/), an ethics checklist for data science projects in the form of a command line tool
+
 # More resources
 - [Blog by Data Science and Advanced Analytics group at Unity Health Toronto](https://lks-chart.github.io/blog/)
 - Lots of resources and links over at [Clinical Scientific Computing at Guy's and St Thomas' NHS Foundation Trust](https://gstt-csc.github.io/)
 - [DevOps for Data Science book](https://do4ds.com/)
 - Many resources over at [Vector Institute](https://vectorinstitute.ai/research/health-research/), e.g. [Health AI Implementation Toolkit](https://vectorinstitute.ai/health-ai-implementation-toolkit/)
 - Blog about Data Science tools and technologies with daily articles https://blog.dailydoseofds.com/
+- An in-the-works book about times when data science does not go as planned [Science Fictions](https://calmcode.io/data-science-fiction) - chapter 1 talks about data leakage in a health care use case
+
+# Resources in Swedish language
+- [AI och maskininlärning för kliniker](https://play.lnu.se/media/t/0_9gldbzgn) (in Swedish!)
+- [Artificiell intelligens inom vård och omsorg](https://play.lnu.se/media/t/0_mzti4jou) (in Swedish!)
+- [AI och bröstcancer](https://play.lnu.se/media/t/0_wteryemf) (in Swedish!)
+- [The AI Sweden podcast](https://open.spotify.com/show/7z6xGzWQosx3346tpscfQc?si=000d80c8fbc44813) often has episodes relating to healthcare, for example this one about [data science in health care sector](https://open.spotify.com/episode/3xj4kt85j3QVYfvVbyeuFX?si=a6bba0ed855447eb) and this one about  [how Unity Health works on AI in healthcare](https://open.spotify.com/episode/0Zz5CFJtWE1vR3XBlvQQbC?si=ddca8c1fd1a0427e).
+  
