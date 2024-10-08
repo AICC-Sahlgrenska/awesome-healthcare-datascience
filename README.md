@@ -37,8 +37,16 @@ Have a good resource that is not here? Make a pull request!
 - Many [Kaggle](https://www.kaggle.com/) competitions have health-related datasets
 - Many lists of healthcare datasets floating around the internet, search e.g. "awesome healthcare dataset"
 
-# Ethical AI
+# Conferences
+- [Healthcare NLP Summit](https://www.nlpsummit.org/), is a fully digital conference related to all kinds of NLP tasks within the healthcare sector.
+- [R/Medicine](https://rconsortium.github.io/RMedicine_website/) is a conference all about using the language R in medical research and in pharma. Fully online, usually in June.
+- [Health and Care analytics conference](https://haca-conference.nhs.uk/), mainly for and by the NHS. Organised somewhere in the UK, usually in July, with option to join in online.
+- [Machine learning for healthcate](https://www.mlforhc.org/) is a mostly academic conference related to ML applications within the healthcare domain. Organised somewhere in the North America in August-September.
+- [A joint conference for NHS R and Python user communities, RPySOC](https://nhsrcommunity.com/events). Organised usually in Birmingham, sometime in November, with option to join in online.
 
+
+
+# Ethical AI
 - [Guidelines for ethical AI in public sector](https://www.suomi.fi/guides/responsible-ai)
 - [Yle's (Finnish public broadcasting company) principles for responsible AI](https://yle.fi/aihe/s/10005660)
 - [Deon](https://deon.drivendata.org/), an ethics checklist for data science projects in the form of a command line tool
